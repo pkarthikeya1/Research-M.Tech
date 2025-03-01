@@ -11,9 +11,7 @@ This repository contains the materials and code associated with the M.Tech thesi
   - [Data Collection and Preprocessing](#data-collection-and-preprocessing)
   - [Machine Learning Models](#machine-learning-models)
 - [Results and Analysis](#results-and-analysis)
-- [Repository Structure](#repository-structure)
-- [Usage](#usage)
-- [Future Work](#future-work)
+
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 
