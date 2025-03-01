@@ -1,4 +1,3 @@
-```markdown
 # Predicting Thermal Conductivity and Oxide Scale Thickness in ZrB₂ Composites
 
 This repository contains the materials and code associated with the M.Tech thesis work titled **"Predicting Thermal Conductivity and Oxide Scale Thickness in ZrB₂ Composites: A Machine Learning Approach"** by Karthikeya Pervela. The project focuses on leveraging machine learning models to predict key thermal properties of ultra high temperature ceramic (UHTC) composites, with an emphasis on ZrB₂-based materials.
